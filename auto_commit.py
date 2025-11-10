@@ -5,12 +5,14 @@ update_public_channels.py
 自動抓取合法公開直播流並推送更新到 GitHub。
 """
 
-from seleniumwire import webdriver
-from apscheduler.schedulers.background import BackgroundScheduler
-import chromedriver_autoinstaller
+import os
 import subprocess
-import requests, os, time
+import time
 from datetime import datetime
+
+import chromedriver_autoinstaller
+from apscheduler.schedulers.background import BackgroundScheduler
+from seleniumwire import webdriver
 
 # ====== 頻道列表（合法公開流） ======
 CHANNELS = {
@@ -31,7 +33,7 @@ def fetch_stream(channel_name, url):
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("--no-sandbox")
     options.add_argument("--window-size=1280,720")
-    options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36")
+    options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (HTML, like Gecko) Chrome/121.0.0.0 Safari/537.36")
 
     driver = webdriver.Chrome(options=options)
     driver.get(url)
