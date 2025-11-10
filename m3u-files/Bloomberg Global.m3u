@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,Bloomberg Global
-https://infinity-c34.youboranqs01.com/ping?diffTime=10000&entities=%7B%22param8%22%3A%22https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fpb%2Fevent%2FK0-OqUmxTweP-DyYhqzcLw%2Fstream%2F8f148916-438e-4de9-8f3e-9b27d276ad7b%3ASIN2%2Fmaster.m3u8%22%7D&bitrate=-1&throughput=-1&droppedFrames=0&playrate=1&timemark=1762782933273&system=bloomberg&sessionRoot=V_19160_78y27d0c1h1ejhyz_1762782923272&pingTime=10&code=V_19160_78y27d0c1h1ejhyz_1762782923272
+https://dai.google.com/linear/hls/pb/event/K0-OqUmxTweP-DyYhqzcLw/stream/61f77842-1341-4581-9833-506831b74cf1:TPE/master.m3u8
