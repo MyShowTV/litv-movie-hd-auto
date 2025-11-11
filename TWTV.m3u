@@ -239,21 +239,21 @@ https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main
 #EXTINF:-1 group-title="台灣頻道" tvg-name="台灣測試",台灣測試
 http://example.com/live/taiwan.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/ePAZA6lSY-c/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/E5-2zBVmURI/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/ePAZA6lSY-c/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/E5-2zBVmURI/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/wHhGJJpl30w/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/kzx5PFUdYyM/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/wHhGJJpl30w/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/kzx5PFUdYyM/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/3C5Av_wTnOk/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/h-YIhreaYtg/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/3C5Av_wTnOk/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/h-YIhreaYtg/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/0lucfbYR3J4/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/ZM2gXSlH9_g/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/0lucfbYR3J4/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/ZM2gXSlH9_g/master.m3u8
 
 #==================================================
 # 電影頻道
@@ -1073,5 +1073,5 @@ https://live.catvod.com/live.php?id=bloomberg_twn&token=b5ceb5987f6b95671ad33fa1
 #EXTINF:-1 tvg-name="Al-Jazeera" group-title="其他頻道",Al-Jazeera
 https://live.catvod.com/live.php?id=aljazeera_twn&token=5017fd0890e2220172ba4619a75d66e314ed1cabdb011f3031793c909b1365a1%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
-# 文件更新時間：2025-11-11 14:05:31
+# 文件更新時間：2025-11-11 14:20:34
 # 總頻道數：514 個頻道
