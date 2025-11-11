@@ -6,8 +6,6 @@
 #==================================================
 #EXTINF:-1 tvg-name="翡翠台" group-title="香港頻道",翡翠台
 https://live.catvod.com/live.php?id=jade_twn&token=5df6e946bdd6447c2accf0910b84bbbe7fc47dc600fdef6fac26617057adb16d%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="香港頻道",翡翠台
-http://bxtv.3a.ink/api.php?id=fct
 #EXTINF:-1 tvg-name="TVBPLUS" group-title="香港頻道",TVBPLUS
 https://live.catvod.com/live.php?id=j2_twn&token=9491a6dbae9b2a5be6373efe332668463eec4ce13f24005c40775f6e86d00715%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="明珠台" group-title="香港頻道",明珠台
@@ -230,28 +228,22 @@ https://live.catvod.com/live.php?id=sanlidouhui_twn&token=cbcc5363ac6f374ecb3660
 https://live.catvod.com/live.php?id=huanyuxinwen_twn&token=41dd5d893dd5fea16471337ef5fc28d8fcbc203b0996645215363c242d75d192%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="寰宇财经台" group-title="台灣頻道",寰宇财经台
 https://live.catvod.com/live.php?id=huanyutaiwan_twn&token=42bb04e1511db799e8fb37a26bd090beb6098207ea1fc5b593a2d8cda19fae42%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="龍華經典" group-title="台灣頻道",龍華經典
-https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93/%E9%BE%8D%E8%8F%AF%E7%B6%93%E5%85%B8.m3u
-#EXTINF:-1 tvg-name="龍華戲劇" group-title="台灣頻道",龍華戲劇
-https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87.m3u
-#EXTINF:-1 tvg-name="龍華偶像" group-title="台灣頻道",龍華偶像
-https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93/%E9%BE%8D%E8%8F%AF%E5%81%B6%E5%83%8F.m3u
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/xNoW3IX5tZk/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/jrv3dtrRGVc/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/xNoW3IX5tZk/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/jrv3dtrRGVc/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/_fn8NFUsHdE/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/EW11aR3XrpY/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/_fn8NFUsHdE/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/EW11aR3XrpY/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/IDeYAqGOcoU/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/OncGQePydcQ/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/IDeYAqGOcoU/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/OncGQePydcQ/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/565dWZDJNTc/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/woEJAVbk07U/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/565dWZDJNTc/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/woEJAVbk07U/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
 
 #==================================================
 # 電影頻道
@@ -568,9 +560,9 @@ https://live.catvod.com/live.php?id=pilitw_twn&token=14f5b18b9446baaff7aed9aa452
 https://live.catvod.com/live.php?id=daai_twn&token=9cd157f66eb16a18a54f4f0e12b17683e079cf83aa7b899650dbee0a720e668f%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="非凡新闻" group-title="其他頻道",非凡新闻
 https://live.catvod.com/live.php?id=feifannews_twn&token=44654e0443788f8052d2cc5ca5bc0ff42d71e79d30171cf2d4d5a8160f7b3d77%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="龙华戏剧" group-title="其他頻道",龙华戏剧
+#EXTINF:-1 tvg-name="龙华洋片" group-title="其他頻道",龙华洋片
 https://live.catvod.com/live.php?id=lunghuaxiju_twn&token=05ed255929b91a5a4694ef4a5398688211e9983775b2c30f1c3909d402b1b6f8%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="龙华偶像" group-title="其他頻道",龙华偶像
+#EXTINF:-1 tvg-name="龙华日韩" group-title="其他頻道",龙华日韩
 https://live.catvod.com/live.php?id=lunghuaidol_twn&token=aadc1991567bfc578441947464cb9ed3ca0ceb6adf9bf787de1aa23ccc67a50f%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="靖天国际" group-title="其他頻道",靖天国际
 https://live.catvod.com/live.php?id=jingtianintl_twn&token=dff24cf4255e34b41e2272610bb51b128172cdf1a927fce7baf132644c6002c2%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
@@ -608,7 +600,7 @@ https://live.catvod.com/live.php?id=ettvmovie&token=301a0f482c81eea03e480d594732
 https://live.catvod.com/live.php?id=arirang_twn&token=a1c3985469eab459a42c01e647bb4a07e1aa8b8c27631164d015b02c003ce358%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="东森洋片台" group-title="其他頻道",东森洋片台
 https://live.catvod.com/live.php?id=ettvwestern&token=80417246ae9dbd196b1ede93132a91c6ee5d7e1e96bb99b62885f0a0a8698839%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="龙华洋片" group-title="其他頻道",龙华洋片
+#EXTINF:-1 tvg-name="龙华动画" group-title="其他頻道",龙华动画
 https://live.catvod.com/live.php?id=lunghuawestern_twn&token=70b8a642de737a4f9d982e6cd1c4989581427ae110f130238ca08fe25832223d%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="MTVLive" group-title="其他頻道",MTVLive
 https://live.catvod.com/live.php?id=mtvhd_twn&token=d52d6c8803b0fc11b79e4e58a374c011ecc2aead0c09a57bf26cd5ef0ca724a0%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
@@ -628,8 +620,6 @@ https://live.catvod.com/live.php?id=meiyamovie_twn&token=5e43e7a6d756834275a2e4f
 https://live.catvod.com/live.php?id=eltayingju_twn&token=7e1521237615308e32c4e466f58b176d75b2a3ed468c9ce618276540af2b4202%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="爱尔达综合台" group-title="其他頻道",爱尔达综合台
 https://live.catvod.com/live.php?id=eltazonghe_twn&token=08f272aa8106265aad7ae723ae9408fe01709fd5c3ae9bb2f2e7882e066c210d%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="龙华電影" group-title="其他頻道",龙华電影
-https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93/%E9%BE%8D%E8%8F%AF%E9%9B%BB%E5%BD%B1.m3u
 #EXTINF:-1 tvg-name="亚洲旅游台" group-title="其他頻道",亚洲旅游台
 https://live.catvod.com/live.php?id=asiatravel_twn&token=bd3a3159c496e887de5b39d065f4b06e05e581e6cd249b03e274d2aecdcaac85%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="其他頻道",星空卫视
@@ -1081,5 +1071,5 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:-1 tvg-name="新加坡亚太" group-title="其他頻道",新加坡亚太
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-# 文件更新時間：2025-11-11 16:51:26
-# 總頻道數：518 個頻道
+# 文件更新時間：2025-11-11 17:21:28
+# 總頻道數：513 個頻道
