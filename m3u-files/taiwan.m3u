@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/g9UofczS8G8/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/7AR3Bl75T-k/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/g9UofczS8G8/master.m3u8
-# 更新時間：2025-11-12 14:35:23
+https://cdi.ofiii.com/ocean/video/playlist/7AR3Bl75T-k/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
+# 更新時間：2025-11-12 14:50:22
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/_GchsW8ExUc/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/pS8k2tcn8YE/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/_GchsW8ExUc/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
-# 更新時間：2025-11-12 14:38:20
+https://cdi.ofiii.com/ocean/video/playlist/pS8k2tcn8YE/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
+# 更新時間：2025-11-12 14:54:16
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/NKSFbMq5Ku0/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/SxQEX9srIT0/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/NKSFbMq5Ku0/master.m3u8
-# 更新時間：2025-11-12 14:39:03
+https://cdi.ofiii.com/ocean/video/playlist/SxQEX9srIT0/master.m3u8
+# 更新時間：2025-11-12 14:54:59
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/5POl8LuWWU4/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/NES-SBzSLiU/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/5POl8LuWWU4/master.m3u8
-# 更新時間：2025-11-12 14:34:39
+https://cdi.ofiii.com/ocean/video/playlist/NES-SBzSLiU/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
+# 更新時間：2025-11-12 14:49:38
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通 (高清優先)
 https://cdi.ofiii.com/ocean/video/playlist/7qloNTlW9gw/litv-longturn01-avc1_336000=1-mp4a_132000=2.m3u8
@@ -37,7 +37,13 @@ https://cdi.ofiii.com/ocean/video/playlist/G8ytCMuDAIA/master.m3u8
 # 更新時間：2025-11-12 14:36:50
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/w4PLD2CXtrs/litv-longturn02-avc1_600000=1-mp4a_128000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/Nha7zpVJTtQ/litv-longturn02-avc1_2936000=4-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/w4PLD2CXtrs/master.m3u8
-# 更新時間：2025-11-12 14:36:06
+https://cdi.ofiii.com/ocean/video/playlist/Nha7zpVJTtQ/litv-longturn02-avc1_5936000=5-mp4a_128000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/Nha7zpVJTtQ/litv-longturn02-avc1_600000=1-mp4a_128000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/Nha7zpVJTtQ/litv-longturn02-avc1_736000=3-mp4a_128000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/Nha7zpVJTtQ/master.m3u8
+# 更新時間：2025-11-12 14:51:05
