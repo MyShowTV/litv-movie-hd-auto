@@ -1,0 +1,57 @@
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Selenium / Chrome
+chromedriver
+chromedriver.exe
+chromedriver_win32/
+chrome-data/
+seleniumwire/
+selenium-wire/
+seleniumwire-* 
+seleniumwire-storage/
+selenium-wire-storage/
+*.sqlite
+
+# Browser cache
+Default/
+Cache/
+Code Cache/
+*BrowserMetrics*
+*GPUCache*
+*DWriteFontCache*
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE folders
+.vscode/
+.idea/
+
+# Backup / temp
+*.bak
+*.old
+*.orig
+
+# Exclude large temp data
+tmp/
+temp/
+
+# Do NOT ignore m3u playlist files
+!m3u-files/
+!*.m3u
+
+# TWTV should be tracked
+!TWTV.m3u
