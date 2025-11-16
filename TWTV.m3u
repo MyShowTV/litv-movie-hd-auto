@@ -1201,33 +1201,39 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/oKHFknj6dmc/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/oKHFknj6dmc/master.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/dsdJOYV14WA/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/dsdJOYV14WA/master.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/HJC7gpe4WN0/master.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/HJC7gpe4WN0/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/yRhknK3an4E/master.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/yRhknK3an4E/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/dKhmxZUHTgs/master.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/dKhmxZUHTgs/litv-longturn01-avc1_336000=1-mp4a_132000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/nfib0RsK1xg/litv-longturn11-avc1_336000=1-mp4a_128000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/nfib0RsK1xg/master.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/7dhG_pHP8AM/litv-longturn02-avc1_600000=1-mp4a_128000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/7dhG_pHP8AM/master.m3u8
 # 台灣頻道更新時間：2025-11-16 08:45:13
+# 台灣頻道總數：14 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (高清優先)
+https://cdi.ofiii.com/ocean/video/playlist/HY1DwUW7trM/master.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/HY1DwUW7trM/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (高清優先)
+https://cdi.ofiii.com/ocean/video/playlist/q-LpeVZPJzY/master.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/q-LpeVZPJzY/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (高清優先)
+https://cdi.ofiii.com/ocean/video/playlist/2gvK5cvdZFk/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/2gvK5cvdZFk/master.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (高清優先)
+https://cdi.ofiii.com/ocean/video/playlist/YE5yL4uu3SY/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/YE5yL4uu3SY/master.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通 (高清優先)
+https://cdi.ofiii.com/ocean/video/playlist/WjNQ1riElGs/litv-longturn01-avc1_336000=1-mp4a_132000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/WjNQ1riElGs/master.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 (高清優先)
+https://cdi.ofiii.com/ocean/video/playlist/4VSaGEtIrKY/master.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/4VSaGEtIrKY/litv-longturn11-avc1_336000=1-mp4a_128000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 (高清優先)
+https://cdi.ofiii.com/ocean/video/playlist/LOsb2FSgj0M/master.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/LOsb2FSgj0M/litv-longturn02-avc1_600000=1-mp4a_128000=2.m3u8
+# 台灣頻道更新時間：2025-11-16 09:45:18
 # 台灣頻道總數：14 個
