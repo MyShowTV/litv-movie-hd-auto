@@ -7,27 +7,34 @@
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
-https://example.com/live/%E9%BE%8D%E8%8F%AF%E5%81%B6%E5%83%8F/playlist.m3u8
-# 更新時間：2025-11-21 16:28:24
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
-https://example.com/live/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87/playlist.m3u8
-# 更新時間：2025-11-21 16:27:08
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典
-https://cdi.ofiii.com/ocean/video/playlist/Mgzqm07OW6g/master.m3u8
-# 更新時間：2025-11-21 16:26:10
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影
-https://example.com/live/龍華電影/playlist.m3u8
 # 更新时间: 2025-11-21 16:18:50
+# 更新頻道：7 個
+# 保留頻道：0 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
+https://cdi.ofiii.com/ocean/video/playlist/Ta2TeF-KDSQ/master.m3u8
+# 更新時間：2025-11-21 17:00:04
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
+https://cdi.ofiii.com/ocean/video/playlist/wmFSGbFuPCI/master.m3u8
+# 更新時間：2025-11-21 16:59:45
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典
+https://cdi.ofiii.com/ocean/video/playlist/xTAgO5E1pxA/master.m3u8
+# 更新時間：2025-11-21 16:59:25
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影
+https://cdi.ofiii.com/ocean/video/playlist/4WXH6EpbA2U/master.m3u8
+# 更新時間：2025-11-21 16:59:07
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/7CcgOZ7cOUE/master.m3u8
-# 更新時間：2025-11-21 16:30:02
+https://cdi.ofiii.com/ocean/video/playlist/yavHHM6ayKQ/master.m3u8
+# 更新時間：2025-11-21 17:01:02
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/kz9oCxoSSj4/master.m3u8
-# 更新時間：2025-11-21 16:28:47
+https://cdi.ofiii.com/ocean/video/playlist/oWcj3CbMZqM/master.m3u8
+# 更新時間：2025-11-21 17:00:23
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://example.com/live/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87/playlist.m3u8
-# 更新時間：2025-11-21 16:29:44
-# 更新時間：2025-11-21 16:30:07
+https://cdi.ofiii.com/ocean/video/playlist/XsQ6mrcI73Y/master.m3u8
+# 更新時間：2025-11-21 17:00:42
+# 更新時間：2025-11-21 17:01:06
 # 更新頻道：7 個
 # 保留頻道：0 個
