@@ -1,0 +1,7 @@
+selenium
+selenium-wire
+chromedriver-autoinstaller
+requests
+pystray
+Pillow
+psutil
