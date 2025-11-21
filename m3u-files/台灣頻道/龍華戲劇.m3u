@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 [主線路]
-https://cdi.ofiii.com/ocean/video/playlist/sSm8XN6kvKA/litv-longturn18-avc1_736000=3-mp4a_132000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/nB6JLzLc11M/litv-longturn18-avc1_2936000=4-mp4a_132000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 [備用線路1]
-https://cdi.ofiii.com/ocean/video/playlist/sSm8XN6kvKA/master.m3u8
-# Updated: 2025-11-21 11:21:12
+https://cdi.ofiii.com/ocean/video/playlist/nB6JLzLc11M/litv-longturn18-avc1_736000=3-mp4a_132000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 [備用線路2]
+https://cdi.ofiii.com/ocean/video/playlist/nB6JLzLc11M/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 [備用線路3]
+https://cdi.ofiii.com/ocean/video/playlist/nB6JLzLc11M/master.m3u8
+# Updated: 2025-11-21 11:36:11

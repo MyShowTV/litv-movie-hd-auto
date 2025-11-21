@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 [主線路]
-https://cdi.ofiii.com/ocean/video/playlist/4p5rK2MrZTc/litv-longturn11-avc1_736000=3-mp4a_128000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/T3hRVnJnmOI/litv-longturn11-avc1_736000=3-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 [備用線路1]
-https://cdi.ofiii.com/ocean/video/playlist/4p5rK2MrZTc/master.m3u8
-# Updated: 2025-11-21 11:20:12
+https://cdi.ofiii.com/ocean/video/playlist/T3hRVnJnmOI/litv-longturn11-avc1_336000=1-mp4a_128000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 [備用線路2]
+https://cdi.ofiii.com/ocean/video/playlist/T3hRVnJnmOI/master.m3u8
+# Updated: 2025-11-21 11:35:09
