@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/aP21qn5CLuo/master.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/aP21qn5CLuo/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
-# 更新時間：2025-11-20 21:37:21
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 [主線路]
+https://cdi.ofiii.com/ocean/video/playlist/iLxMajiA4M4/litv-longturn21-avc1_736000=3-mp4a_140000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 [備用線路1]
+https://cdi.ofiii.com/ocean/video/playlist/iLxMajiA4M4/master.m3u8
+# Updated: 2025-11-21 09:29:04
