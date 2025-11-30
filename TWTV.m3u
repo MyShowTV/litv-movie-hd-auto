@@ -567,8 +567,6 @@ https://stream1.freetv.fun/4b000a541e51690025326cffbf43d0e994a6327abaa0dc59b7902
 https://stream1.freetv.fun/feng-huang-dian-ying-3.m3u8
 #EXTINF:-1 group-title="电影频道",凤凰电影
 http://222.186.39.38:8000/882696/index.m3u8
-#EXTINF:-1 group-title="电影频道",湖南电影
-https://stream1.freetv.fun/c7e6a8a71c28e0e74e51baab7dbdf7e6d79876b8979a90b3ab56a831bd54001a.m3u8
 #EXTINF:-1 group-title="电影频道",爱奇艺
 https://live.catvod.com/live.php?id=Qiyi&token=4c57219eec8e67d809f2ec351903ac69f85ec5e73136601e6796c0aa9137419f%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 group-title="电影频道",古装电影
@@ -1299,27 +1297,33 @@ https://stream1.freetv.fun/00bb1f81bfad9531a7995b2370e4350e0803f8423b6bafcfcd01e
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
-https://cdi.ofiii.com/ocean/video/playlist/da9uhZSRx4k/master.m3u8
-# 更新時間：2025-11-30 15:35:38
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
-https://cdi.ofiii.com/ocean/video/playlist/3i6aV5urnbY/master.m3u8
-# 更新時間：2025-11-30 15:37:03
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典
-https://cdi.ofiii.com/ocean/video/playlist/7HJwBulP1Bs/master.m3u8
-# 更新時間：2025-11-30 15:37:24
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影
-https://cdi.ofiii.com/ocean/video/playlist/dLZ1DZTDVKM/master.m3u8
-# 更新時間：2025-11-30 15:35:15
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/Fq0E67FWPH4/master.m3u8
-# 更新時間：2025-11-30 15:36:43
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/k48sw1LWd-k/master.m3u8
-# 更新時間：2025-11-30 15:36:21
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/_jBJcVjRQBk/master.m3u8
-# 更新時間：2025-11-30 15:35:59
-# 更新時間：2025-11-30 15:37:29
 # 更新頻道：7 個
 # 保留頻道：552 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
+https://cdi.ofiii.com/ocean/video/playlist/UXLeP9imo98/master.m3u8
+# 更新時間：2025-11-30 15:43:37
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
+https://cdi.ofiii.com/ocean/video/playlist/dn-B2caD8Ps/master.m3u8
+# 更新時間：2025-11-30 15:45:02
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典
+https://cdi.ofiii.com/ocean/video/playlist/9-tb0ZN22Xg/master.m3u8
+# 更新時間：2025-11-30 15:45:23
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影
+https://cdi.ofiii.com/ocean/video/playlist/Fa6LtXcLyg4/master.m3u8
+# 更新時間：2025-11-30 15:43:16
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
+https://cdi.ofiii.com/ocean/video/playlist/U7DcR3L4cJ8/master.m3u8
+# 更新時間：2025-11-30 15:44:40
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
+https://cdi.ofiii.com/ocean/video/playlist/c-Qw3_a4M1c/master.m3u8
+# 更新時間：2025-11-30 15:44:19
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
+https://cdi.ofiii.com/ocean/video/playlist/w8QGQhZJi2M/master.m3u8
+# 更新時間：2025-11-30 15:43:58
+# 更新時間：2025-11-30 15:47:29
+# 更新頻道：8 個
+# 保留頻道：551 個
