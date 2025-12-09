@@ -115,7 +115,7 @@ https://live.catvod.com/live.php?id=cctv17&token=b992a41176b8486808e1ae7a008dd72
 #EXTINF:-1 group-title="央视频道",CCTV-怀旧剧场
 https://stream1.freetv.fun/f451089a5253d696d2cb91230f4944eaf197b7cb13b7da926dc2781c0ed075ac.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-第一剧场
-https://stream1.freetv.fun/1ea56d25e481bf73442ba584c8652187d7a63708dd04f941771b31b6866cfc1c.m3u8
+https://stream1.freetv.fun/631e31539c1b0c0c745f6727dd2e9511ef40616c5732baa462609264fa22c757.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-风云剧场
 https://stream1.freetv.fun/e844a95463a8060541dd5b646561a445ab7356dae19efe994ae4571bac9b48d6.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-欢笑剧场
@@ -133,7 +133,7 @@ https://live.catvod.com/live.php?id=zhejiang_twn&token=d9e704ad3d859075644cb4ed9
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228750/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-https://live.catvod.com/live.php?id=dongfangweishi_twn&token=b2b61a9dbe582ebd07babc5a510dd9e1c632edd9478adcec74db5b7457bdc5e4%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
+https://stream1.freetv.fun/0b91610ba4f49cf849d319dba7b570fa0aec705665610aabad041a7ba76e21ff.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 https://live.catvod.com/live.php?id=beijing&token=1f85871aa2002e4887db656da10acf6bc611983dd0767d37b3bdbd1f293dc877%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 group-title="卫视频道",深圳卫视
@@ -145,7 +145,7 @@ https://live.catvod.com/live.php?id=nanfang_twn&token=3c4a1c0ce0e8b5c78d7b427fa1
 #EXTINF:-1 group-title="卫视频道",珠江
 https://live.catvod.com/live.php?id=zhujiang&token=c08f2a4230d601fdf0c012e231f2de15994cc1d18fef2345e4f73fc678afda91%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 group-title="卫视频道",东南卫视
-https://live.catvod.com/live.php?id=fujian&token=5c567faa2631211fbcf914265ec9181088a9bf3bb85499a92c33613dd45a17e7%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
+https://stream1.freetv.fun/6b5ea742e1d5e5fddafef28af941cffaa6a9a260ada34bf8e6aa26fbd824dc14.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
 https://stream1.freetv.fun/460e4ed32ef08a437b5d8564303ccc5ae963ca6d9694c92502aa163f8117afbc.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
@@ -207,7 +207,7 @@ https://stream1.freetv.fun/c66d54d2c1ee3303a5a503d9b871faf6fa3edd00faa755ffb7d17
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 https://stream1.freetv.fun/279677b3b951e2cdbee503624b1e1425d24666b3a6d1161bf0640918a772bbfd.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
-https://stream1.freetv.fun/aceed9a40621856e78e08c864999985a2c373799ed59361c3cf5434d6ccfff4a.m3u8
+https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南电视剧
 https://stream1.freetv.fun/239ab296e60d9863efd9ef94f4c32dec50d4cf91d8731a1d586270c2deb9f693.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南爱晚
@@ -1280,27 +1280,33 @@ https://stream1.freetv.fun/148e52d0d191542b3de6b3c31983ef71b2507ea7321b85ba37667
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：595 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
-https://cdi.ofiii.com/ocean/video/playlist/l5W9h-HL8jo/master.m3u8
-# 更新時間：2025-12-08 20:28:19
+https://cdi.ofiii.com/ocean/video/playlist/lFLvVTh7DNI/master.m3u8
+# 更新時間：2025-12-09 21:07:32
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
-https://cdi.ofiii.com/ocean/video/playlist/Ea5mJLPtLDE/master.m3u8
-# 更新時間：2025-12-08 20:29:43
+https://cdi.ofiii.com/ocean/video/playlist/u_f_i8gPJMY/master.m3u8
+# 更新時間：2025-12-09 21:09:05
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典
-https://cdi.ofiii.com/ocean/video/playlist/Mdobuy7Ej1o/master.m3u8
-# 更新時間：2025-12-08 00:26:02
+https://cdi.ofiii.com/ocean/video/playlist/vCN8-9bheS8/master.m3u8
+# 更新時間：2025-12-09 21:09:31
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影
-https://cdi.ofiii.com/ocean/video/playlist/Muk1phtU_zA/master.m3u8
-# 更新時間：2025-12-08 20:27:57
+https://cdi.ofiii.com/ocean/video/playlist/4kYs3i9Wmrs/master.m3u8
+# 更新時間：2025-12-09 21:07:10
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/qYHzLgAg6r4/master.m3u8
-# 更新時間：2025-12-08 20:29:21
+https://cdi.ofiii.com/ocean/video/playlist/OGIKbYLNLOM/master.m3u8
+# 更新時間：2025-12-09 21:08:39
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/hi7IxPRiDwE/master.m3u8
-# 更新時間：2025-12-08 20:29:01
+https://cdi.ofiii.com/ocean/video/playlist/AGIeNB_DH0w/master.m3u8
+# 更新時間：2025-12-09 21:08:17
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/BVdua2XtUGo/master.m3u8
-# 更新時間：2025-12-08 20:28:39
-# 更新時間：2025-12-08 20:30:36
+https://cdi.ofiii.com/ocean/video/playlist/Xs_4JYKTan8/master.m3u8
+# 更新時間：2025-12-09 21:07:55
+# 更新時間：2025-12-09 21:09:35
 # 更新頻道：7 個
 # 保留頻道：595 個
