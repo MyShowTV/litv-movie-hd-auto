@@ -194,7 +194,7 @@ https://live.catvod.com/live.php?id=shenzhen&token=e476fb099fe20ca62554d8905b991
 #EXTINF:-1 group-title="卫视频道",广东卫视
 https://live.catvod.com/live.php?id=guangdongweishi_twn&token=04024437f441a3e20c08d68353d3324a64fb2014f62a217fd87bbfba0f4ef5f2%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
-https://live.catvod.com/live.php?id=nanfang_twn&token=5b0e592e058604970cf9b849f9629a5f9e69afe031f20697d2ee951537f5481e%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+https://stream1.freetv.fun/da-wan-qu-wei-shi-5.ctv
 #EXTINF:-1 group-title="卫视频道",广东珠江
 https://live.catvod.com/iptv.php?id=gdzj01&token=ce7bddeaab8312712d1b26287a23e525817147395328880036569962411aafee%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 group-title="卫视频道",广东珠江
@@ -312,21 +312,43 @@ https://stream1.freetv.fun/b15295b3e92bc05f0d0d70f16c56a26babec64bfcf55b4d60db31
 #EXTINF:-1 group-title="本地频道",四川新闻
 https://stream1.freetv.fun/a63e23c73f6e89adbe87cf114d8ad1b4e11415ec1241bd8f094abc35a6cef421.m3u8
 #EXTINF:-1 group-title="本地频道",成都综合
-https://stream1.freetv.fun/9ca034b420169c1a6c46afdcaf5827dbbdb9e9ef24eac4e9c29e770f603bded4.m3u8
+https://cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=31ffc1e8cfe92e6fcda5c71e14783b24&wsTime=693aceea
 #EXTINF:-1 group-title="本地频道",成都经济
-https://stream1.freetv.fun/5a062ab991738b2a4f1a96fa15e2a7cb86c3b268097bcd24d6867a215a1d19dd.m3u8
+https://cdn1.cditv.cn/cdtv2high/CDTV2High.flv/playlist.m3u8?wsSecret=cd40387841e6f024b29b3fe42cd4ac52&wsTime=693acf2c
 #EXTINF:-1 group-title="本地频道",成都都市
-https://stream1.freetv.fun/cf8f5aa768fc9af8d71fb5e771d7b7374d0de36006eaf26d05abadaecfa94a55.m3u8
+https://cdn1.cditv.cn/cdtv3high/CDTV3High.flv/playlist.m3u8?wsSecret=1805a3ec0b0af5b80f0679d67435e380&wsTime=693acf62
 #EXTINF:-1 group-title="本地频道",成都影视
-https://stream1.freetv.fun/e3830300c18cb17232d1c5d0c86757b82934ba3846e79f95f27ebf3370b8301a.m3u8
+https://cdn1.cditv.cn/cdtv4high/CDTV4High.flv/playlist.m3u8?wsSecret=708517e4475b119ef56cf9dea4b05ab5&wsTime=693acf91
 #EXTINF:-1 group-title="本地频道",成都公共
-https://stream1.freetv.fun/715ad226f558384bda21411f4a263eb1c2396b7dd12f22534f7f783a4f246dc6.m3u8
-#EXTINF:-1 group-title="本地频道",成都购物
-https://stream1.freetv.fun/1149644d0d77b81ea73ac98b1d098eb12e4774cd227ed7c7cd4d91c359423c29.m3u8
+https://cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=81979c94afcde2f745f494cf816a09a6&wsTime=693acfb4
+#EXTINF:-1 group-title="本地频道",成都少儿
+https://cdn1.cditv.cn/cdtv6high/CDTV6High.flv/playlist.m3u8?wsSecret=cc3a701966f223e5c6e92798a6dc17a4&wsTime=693acfd0
+#EXTINF:-1 group-title="本地频道",蓉城先锋
+https://cdn1.cditv.cn/dangjiaohigh/dangjiaoHigh.flv/playlist.m3u8?wsSecret=863b29e84a026a78fa7983000ae139a1&wsTime=693ad00a
 #EXTINF:-1 group-title="本地频道",成都高新
-https://stream1.freetv.fun/11ac4d220d980918edf0a753a1902f98d2e594b2e5450cdcca42a0aba179304e.m3u8
-#EXTINF:-1 group-title="本地频道",青羊综合https://tfri0graucmttgh51hct1gazdoctpqf4zo4mbpaz8y7mcpozgg3djqt5nha5q.100ycdn.com/quxian.pull.cditv.cn/live/qingyang.flv/playlist.m3u8?wsSecret=5efbcbd666b385c45c3ac36339dc143c&wsTime=69362b3a&wsSession=cbb5cdad6c6eb9dcb1033a4e-176515769231530&wsIPSercert=007ab53cbf7a0c6c573205fbf568403c&wsiphost=local&wsBindIP=1
-
+https://tfrl0graucmttgh51hct1gazdocjpqf4zo4mbpaz8y7mcpozgg3djqt5nha5q.100ycdn.com/quxian.pull.cditv.cn/live/gaoxin.flv/playlist.m3u8?wsSecret=58f0423d802314b957408071c6b6c91b&wsTime=693acb7a&wsSession=0ae51317dc64937be5a2e6af-176546085899226&wsIPSercert=007ab53cbf7a0c6c573205fbf568403c&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",青羊综合https://tfrl0graucmttgh51hct1gazdoctpqf4zo4mbpaz8y7mcpozgg3djqt5nha5q.100ycdn.com/quxian.pull.cditv.cn/live/qingyang.flv/playlist.m3u8?wsSecret=9623e937b0412b999a715c77ac8fb167&wsTime=693acc72&wsSession=cbb5cdad6c6eb9dcb1033a4e-176546110800923&wsIPSercert=007ab53cbf7a0c6c573205fbf568403c&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",锦江综合https://tfrl0graucmttgh51hct1gazdocbpqf4zo4mbpaz8y7mcpozgg3djqt5nha5q.100ycdn.com/quxian.pull.cditv.cn/live/jinjiang.flv/playlist.m3u8?wsSecret=cde1679371a467ebcc7bbbd53a9f9688&wsTime=693acca7&wsSession=1632185883865f6cb1e37cb3-176546116120657&wsIPSercert=007ab53cbf7a0c6c573205fbf568403c&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",双流综合
+https://tfrl2408x8776x1x306x8000x0x0x4d-quxianpullcditvcn.100ycdn.com/quxian.pull.cditv.cn/live/shuangliu.flv/playlist.m3u8?wsSecret=9039ef80313033d3a687022215648ac1&wsTime=693accf7&wsSession=0ae51317dc64937be5a2e6af-176546124072689&wsIPSercert=c9d8ac9bc258b3807735313273c58872&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",金牛综合
+https://jntv.pull.cditv.cn/live/jntv.flv/playlist.m3u8?wsSecret=387fafcf1b03d5cbcc4f071903ec46a2&wsTime=693acd2f&wsSession=1632185883865f6cb1e37cb3-176546129701491&wsIPSercert=007ab53cbf7a0c6c573205fbf568403c
+#EXTINF:-1 group-title="本地频道",武侯综合
+https://tfrl2408x8776x1x306x8000x0x0x4e-quxianpullcditvcn.100ycdn.com/quxian.pull.cditv.cn/live/wuhou.flv/playlist.m3u8?wsSecret=70995cfd638e912ed4ae6933ca32b6e6&wsTime=693acd54&wsSession=1632185883865f6cb1e37cb3-176546133394268&wsIPSercert=c9d8ac9bc258b3807735313273c58872&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",成华综合
+https://tfrl2408x8776x1x306x8000x0x0x4f-quxianpullcditvcn.100ycdn.com/quxian.pull.cditv.cn/live/chenghua.flv/playlist.m3u8?wsSecret=e14941cc36dac6e30f2d1a0bb6b93f70&wsTime=693acd79&wsSession=cbb5cdad6c6eb9dcb1033a4e-176546137030968&wsIPSercert=c9d8ac9bc258b3807735313273c58872&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",新都综合
+https://tfrl2408x8776x1x306x0x0x0x23-quxianpullcditvcn.100ycdn.com/quxian.pull.cditv.cn/live/xindu.flv/playlist.m3u8?wsSecret=83d4d227899403311fc15d454cfae884&wsTime=693acda1&wsSession=4b4b733cb772ea0398bd3369-176546141029229&wsIPSercert=c9d8ac9bc258b3807735313273c58872&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",郫都综合
+https://tfrl2408x8776x1x306x8000x0x0x4c-quxianpullcditvcn.100ycdn.com/quxian.pull.cditv.cn/live/pidu.flv/playlist.m3u8?wsSecret=36e2be3825cda4737715a5742256d8da&wsTime=693acde5&wsSession=efcc7e8ad5b4a8067e752147-176546147820230&wsIPSercert=c9d8ac9bc258b3807735313273c58872&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",邛崃综合
+https://tfrl0graucmttgh51hct1gazdqp3pqf4zo4mbpaz8y7mcpozgg3djqt5nha5q.100ycdn.com/quxian.pull.cditv.cn/live/qionglai.flv/playlist.m3u8?wsSecret=c0472e6838cbfa9355502e4c8c156745&wsTime=693ace12&wsSession=efcc7e8ad5b4a8067e752147-176546152376001&wsIPSercert=007ab53cbf7a0c6c573205fbf568403c&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",彭州综合
+https://tfrl2408x8776x1x306x8000x0x0x4e-quxianpullcditvcn.100ycdn.com/quxian.pull.cditv.cn/live/pengzhou.flv/playlist.m3u8?wsSecret=8d0bd05f3ca3a104754e7b77aaf3fbfb&wsTime=693ace4b&wsSession=1632185883865f6cb1e37cb3-176546158074748&wsIPSercert=c9d8ac9bc258b3807735313273c58872&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",金堂综合
+https://tfrl2408x8776x1x306x8000x0x0x4d-quxianpullcditvcn.100ycdn.com/quxian.pull.cditv.cn/live/jintang.flv/playlist.m3u8?wsSecret=14db86740cc5da715a034b55b2161a0d&wsTime=693ace7d&wsSession=0ae51317dc64937be5a2e6af-176546163121632&wsIPSercert=c9d8ac9bc258b3807735313273c58872&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="本地频道",青白江综合
+https://tfrl2408x8776x1x306x8000x0x0x4f-quxianpullcditvcn.100ycdn.com/quxian.pull.cditv.cn/live/qingbaijiang.flv/playlist.m3u8?wsSecret=77739583449509763f2977b03ce63add&wsTime=693acea7&wsSession=cbb5cdad6c6eb9dcb1033a4e-176546167218365&wsIPSercert=c9d8ac9bc258b3807735313273c58872&wsiphost=local&wsBindIP=1
 #==================================================
 # 体育频道
 #==================================================
@@ -1374,27 +1396,33 @@ https://stream1.freetv.fun/148e52d0d191542b3de6b3c31983ef71b2507ea7321b85ba37667
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：639 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
-https://cdi.ofiii.com/ocean/video/playlist/FaIwJbAbokQ/master.m3u8
-# 更新時間：2025-12-11 21:45:55
+https://cdi.ofiii.com/ocean/video/playlist/2AghZ73NdKw/master.m3u8
+# 更新時間：2025-12-11 22:10:25
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
 https://cdi.ofiii.com/ocean/video/playlist/zNsFs4h_X9M/master.m3u8
 # 更新時間：2025-12-11 21:47:22
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典
-https://cdi.ofiii.com/ocean/video/playlist/dwGTqMcuz3A/master.m3u8
-# 更新時間：2025-12-11 20:49:51
+https://cdi.ofiii.com/ocean/video/playlist/G6G7GQptaHQ/master.m3u8
+# 更新時間：2025-12-11 22:12:41
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影
-https://cdi.ofiii.com/ocean/video/playlist/T-FJ1r5bjJE/master.m3u8
-# 更新時間：2025-12-11 21:45:27
+https://cdi.ofiii.com/ocean/video/playlist/IzOHOfuWhY0/master.m3u8
+# 更新時間：2025-12-11 22:09:58
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/sLZhQTF6DjI/master.m3u8
-# 更新時間：2025-12-11 21:46:59
+https://cdi.ofiii.com/ocean/video/playlist/FLkLjqZ7Nio/master.m3u8
+# 更新時間：2025-12-11 22:11:30
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/xbks3YCa1wM/master.m3u8
-# 更新時間：2025-12-11 21:46:38
+https://cdi.ofiii.com/ocean/video/playlist/xpwzIbf-ick/master.m3u8
+# 更新時間：2025-12-11 22:11:08
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/VLyk18PMwMw/master.m3u8
-# 更新時間：2025-12-11 21:46:16
-# 更新時間：2025-12-11 21:48:21
+https://cdi.ofiii.com/ocean/video/playlist/5qLhnq5MIX4/master.m3u8
+# 更新時間：2025-12-11 22:10:46
+# 更新時間：2025-12-11 22:12:45
 # 更新頻道：7 個
-# 保留頻道：639 個
+# 保留頻道：650 個
