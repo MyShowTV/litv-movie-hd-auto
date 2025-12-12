@@ -124,19 +124,19 @@ https://live.catvod.com/iptv.php?id=amlh01&token=227fee38b036fca9a97c5c742ad804d
 #==================================================
 
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+http://110.184.220.156:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+http://110.184.220.156:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+http://110.184.220.156:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV4
-https://stream1.freetv.fun/cctv4-79.m3u8
+http://110.184.220.156:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+http://110.184.220.156:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV5
-https://live.catvod.com/live.php?id=cctv5&token=c45edb1bed4c858b20148147ea07aae781e2a59a5577a308e8c0b0e05808fa70%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+http://110.184.220.156:9901/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV5+
-https://live.catvod.com/live.php?id=cctv5plus&token=6d79381ec74a5079188ba0c4cd7867fc6bb5a78aed905735474d563c45c1dcac%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+http://110.184.220.156:9901/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV7
@@ -861,7 +861,7 @@ https://live.catvod.com/live.php?id=Nickjr&token=8f9748041767434f22c9400c87aa1b5
 #EXTINF:-1 group-title="儿童频道",viutvsix
 https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 #EXTINF:-1 group-title="儿童频道",金鹰卡通
-https://stream1.freetv.fun/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.m3u8
+http://110.184.220.156:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="儿童频道",金光布袋戲
 https://stream1.freetv.fun/a64a8bc8f1e401e1c12604a5b79d19edca054bd552bfad27c8807788c7289b46.m3u8
 #==================================================
@@ -1420,9 +1420,15 @@ https://stream1.freetv.fun/148e52d0d191542b3de6b3c31983ef71b2507ea7321b85ba37667
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：8 個
+# 保留頻道：643 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
-https://cdi.ofiii.com/ocean/video/playlist/6bA_ECShFpI/master.m3u8
-# 更新時間：2025-12-12 12:10:03
+https://cdi.ofiii.com/ocean/video/playlist/spvR6vate_4/master.m3u8
+# 更新時間：2025-12-12 14:14:03
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
 https://cdi.ofiii.com/ocean/video/playlist/EVhWNz4Ly48/master.m3u8
 # 更新時間：2025-12-12 12:11:33
@@ -1436,11 +1442,11 @@ https://cdi.ofiii.com/ocean/video/playlist/mgZHK4UXPDo/master.m3u8
 https://cdi.ofiii.com/ocean/video/playlist/GZpeuJ7g0Pk/master.m3u8
 # 更新時間：2025-12-12 12:11:12
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/mYs6jhmPjQE/master.m3u8
-# 更新時間：2025-12-12 12:10:45
+https://cdi.ofiii.com/ocean/video/playlist/irV3mF1zjdI/master.m3u8
+# 更新時間：2025-12-12 14:14:47
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/6f_rcPMPDtE/master.m3u8
-# 更新時間：2025-12-12 12:10:24
-# 更新時間：2025-12-12 12:12:46
-# 更新頻道：8 個
+https://cdi.ofiii.com/ocean/video/playlist/0b7xHfTWqb4/master.m3u8
+# 更新時間：2025-12-12 14:14:24
+# 更新時間：2025-12-12 14:18:07
+# 更新頻道：7 個
 # 保留頻道：643 個
