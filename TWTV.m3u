@@ -160,35 +160,54 @@ http://139.214.176.49:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="央视频道",CCTV17-农业农村
 http://139.214.176.49:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-怀旧剧场
-https://stream1.freetv.fun/f451089a5253d696d2cb91230f4944eaf197b7cb13b7da926dc2781c0ed075ac.m3u8
+http://139.214.176.49:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-第一剧场
-https://stream1.freetv.fun/1ea56d25e481bf73442ba584c8652187d7a63708dd04f941771b31b6866cfc1c.m3u8
+http://139.214.176.49:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-风云剧场
-https://stream1.freetv.fun/3ebce9eb20fc904e8c7aba0a5717cf7b76adb2c0af6ef9245d44eef34a18d131.m3u8
+http://139.214.176.49:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-欢笑剧场
 https://stream1.freetv.fun/c26de373680830b38e7b3f0da2f920353f298e3369addfe68b8e4a2e3811a12b.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-梨园剧场
+http://139.214.176.49:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-女性时尚
+http://139.214.176.49:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-地理世界
+http://139.214.176.49:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-风云音乐
+http://139.214.176.49:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-中国交通
+http://139.214.176.49:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-文化精品
+http://139.214.176.49:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-都市剧场
+http://139.214.176.49:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-法治天地
+http://139.214.176.49:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-兵器科技
+http://139.214.176.49:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-武术世界
+http://139.214.176.49:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-晴彩广场舞
+http://139.214.176.49:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-#==================================================
+#========================================================
 # 卫视频道
-#==================================================
+#========================================================
 
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-https://live.catvod.com/live.php?id=hunan_twn&token=9923b4f9152240d5f5949a4a13144b82e9d3f54b8fe71681dbb65fee610a0cff%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+http://139.214.176.49:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-https://live.catvod.com/live.php?id=zhejiang_twn&token=4edd12287710871319733cb1e749670e2809429e0b27cf9268a2990ba2aba484%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+http://139.214.176.49:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-https://live.catvod.com/live.php?id=jiangsu_twn&token=a9859f3be3b63137a086c17717315006941d7a5a8a522bba563bbe49db83f0c3%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+http://139.214.176.49:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",东方卫视
-https://stream1.freetv.fun/dong-fang-wei-shi-39.m3u8
+http://139.214.176.49:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",北京卫视
-https://stream1.freetv.fun/bei-jing-wei-shi-1.ctv
+http://139.214.176.49:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-https://live.catvod.com/iptv.php?id=szws4k&token=66a60498f95050f91f263df5a0243b8e3d602a1e57d323a3aebad0c527457daf%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-https://live.catvod.com/live.php?id=shenzhen&token=e476fb099fe20ca62554d8905b99179c30ec452b0c1c38cde088d9283d59807d%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+http://139.214.176.49:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广东卫视
-https://stream1.freetv.fun/yan-dong-wei-shi-15.ctv
+http://139.214.176.49:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
 https://stream1.freetv.fun/da-wan-qu-wei-shi-5.ctv
 #EXTINF:-1 group-title="卫视频道",广东珠江
@@ -196,81 +215,93 @@ https://live.catvod.com/iptv.php?id=gdzj01&token=ce7bddeaab8312712d1b26287a23e52
 #EXTINF:-1 group-title="卫视频道",广东珠江
 https://live.catvod.com/live.php?id=zhujiang&token=462e1352161c7ef332c858f880c577ecc09a4e5745fc5febc70e6aef1d7acb49%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 group-title="卫视频道",东南卫视
-https://live.catvod.com/live.php?id=fujian&token=352c053dc97acf03b5d5ead34364c17b58b4184b328a552f80811b0e229d8634%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+http://139.214.176.49:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广西卫视
-https://live.catvod.com/live.php?id=guangxi&token=75a563ed0e9711eaf6c309f931617b552a113470dee82178c2bb695f3766d984%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+http://139.214.176.49:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-https://stream1.freetv.fun/3e07fcb09b9cdc1828f99c8a1489a58e1b9a560c8a98cce39d1fd0fbede6a33e.ctv
+http://139.214.176.49:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",四川卫视
-https://live.catvod.com/live.php?id=sichuan_twn&token=7abef1e023e9d0704d7a50b663842ee5ca989c1e0838adca244f8a0767d85700%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+http://139.214.176.49:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",CGTN
 https://stream1.freetv.fun/cgtn-documentary-7.ctv
 #EXTINF:-1 group-title="卫视频道",天津卫视
-https://stream1.freetv.fun/tian-jin-wei-shi-68.ctv
+http://139.214.176.49:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-https://stream1.freetv.fun/zhu-xia-wei-shi-21.m3u8
+http://139.214.176.49:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-https://stream1.freetv.fun/an-hui-wei-shi-23.ctv
+http://139.214.176.49:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",山东卫视
-https://stream1.freetv.fun/shan-dong-wei-shi-67.ctv
+http://139.214.176.49:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",山西卫视
-https://stream1.freetv.fun/shan-xi-wei-shi-81.m3u8
+http://139.214.176.49:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",延边卫视
-https://stream1.freetv.fun/yan-bian-wei-shi-28.m3u8
+http://139.214.176.49:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-https://stream1.freetv.fun/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.ctv
+http://139.214.176.49:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江西卫视
-https://stream1.freetv.fun/83923b07305eb80545c4fa3887c930e627361ce0c747f73c5b73c3607c792de6.ctv
+http://139.214.176.49:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",河北卫视
-https://stream1.freetv.fun/441e07b9165c678a056128e4482a7ef746ebdd1dcc0f5b6cbf391c3ccc6852fc.ctv
+http://139.214.176.49:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",河南卫视
-https://stream1.freetv.fun/he-nan-wei-shi-68.m3u8
+http://139.214.176.49:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",海南卫视
-https://stream1.freetv.fun/hai-nan-wei-shi-38.m3u8
+http://139.214.176.49:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",海峡卫视
-https://stream1.freetv.fun/fca5f881883f54b5a82103e385700571b508ff6887f664fa536559797c635bf5.m3u8
+http://218.104.239.114:9901/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-https://stream1.freetv.fun/b14558c4b4b9dd59004052dfe14922a1090bfe3f8040fc5d4fef80a993ffd127.ctv
+http://139.214.176.49:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-https://stream1.freetv.fun/f472b7f1026488727d44969d797eb060aa375af68479fe9b1359d81927da37f4.ctv
+http://139.214.176.49:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-https://stream1.freetv.fun/6a085e3c0744bd2ccd3743430b186afa53a8307566d5dbb8b4047345684c042c.ctv
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-https://stream1.freetv.fun/b3e41d7e57e01edee53dd076c2bbb91349a18376124d5911fcb436aeba6fb442.m3u8
+http://139.214.176.49:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-https://stream1.freetv.fun/91916992fb62b120939e6706e0afe5b3f293ac89ef6e02481b3f54c9a869c6c3.ctv
+http://139.214.176.49:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-https://stream1.freetv.fun/2cc37994e83ac5297536b7aa4912aa45ab17d96e53cf4cd7c66f98ad2aaf38fe.ctv
+http://139.214.176.49:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-https://stream1.freetv.fun/f210bcfec60aa45ed9c724bf4c7abefcdfb41c589ada322aebc5cdc3ae6dc420.m3u8
+http://139.214.176.49:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",青海卫视
-https://stream1.freetv.fun/c065bef9e17cf408a0e90171f69cc8ed09796b4b5a81c81fba6c4ea8665b78d5.ctv
+http://139.214.176.49:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-https://stream1.freetv.fun/91f980623df2d6f6e2bdc1ade976bc8930d4e6cad8e116fd5f3c6fe91e60345c.ctv
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-https://stream1.freetv.fun/c502a906b9e38fa6be2377f3ba900c5802f3b68a586a172ed17a05508d092b8e.m3u8
+http://139.214.176.49:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",厦门卫视
-https://stream1.freetv.fun/sha-men-wei-shi-39.ctv
+http://58.46.202.134:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-https://stream1.freetv.fun/ji-lin-wei-shi-55.ctv
+http://139.214.176.49:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-https://stream1.freetv.fun/san-sha-wei-shi-38.ctv
+http://139.214.176.49:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",兵团卫视
-https://stream1.freetv.fun/bing-tuan-wei-shi-14.ctv
+http://139.214.176.49:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-https://stream1.freetv.fun/nei-meng-gu-wei-shi-8.ctv
+http://139.214.176.49:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",云南卫视
-https://stream1.freetv.fun/fefd2762b3e30335504c696c779bd5ca686d439751cbc3515ee094f39825fdc1.ctv
+http://139.214.176.49:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南娱乐
-https://stream1.freetv.fun/d823f63f178d27fa744c94a23baa86fac9d249923cf03843d769b3bae2e70a8a.ctv
+http://58.46.202.134:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南都市
-https://stream1.freetv.fun/b42591770db7cfe3a8dacd09712f66d9aec7523828541dc331a56d118cc1923e.ctv
-#EXTINF:-1 group-title="卫视频道",湖南经视
-https://stream1.freetv.fun/1d2b4b06eef3abc6c1b98a0138deb14125490cc43e502454d6689fba490232fd.ctv
-#EXTINF:-1 group-title="卫视频道",",",北京影视
+http://58.46.202.134:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",湖南电影
+http://58.46.202.134:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",湖南电视剧
+http://58.46.202.134:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",北京影视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1765347010&sign=02f2eac12d1618dc6fbf5912d6280fa7
-#EXTINF:-1 group-title="卫视频道",深圳财经生活
+#EXTINF:-1 group-title="卫视频道",深圳财经
 https://live.catvod.com/iptv.php?id=szcjsh&token=13d5ddf2ab13e9c4219341229fe1c336066dd3b772dc4de198117cca611fb308%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+#EXTINF:-1 group-title="卫视频道",快乐垂钓
+http://139.214.176.49:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",茶艺频道
+http://139.214.176.49:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",热播剧场
+http://120.196.235.42:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",魅力时尚
+http://120.196.235.42:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",经典电影
+http://120.196.235.42:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",谍战剧场
+http://120.196.235.42:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 #==================================================
 # 本地频道
 #==================================================
@@ -719,11 +750,11 @@ https://stream1.freetv.fun/30bb5138d7c0ee73afd57778a2c4bffc801ab19b7eaeea7e55adf
 #EXTINF:-1 group-title="电影频道",邵氏电影
 https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
 #EXTINF:-1 group-title="电影频道",CHC影迷电影
-https://stream1.freetv.fun/chcying-mi-dian-ying-9.ctv
+http://139.214.176.49:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="电影频道",CHC家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
+http://139.214.176.49:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="电影频道",CHC动作电影
-https://stream1.freetv.fun/chcdong-zuo-dian-ying-6.m3u8
+http://139.214.176.49:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="电影频道",峨嵋电影
 https://stream1.freetv.fun/4b000a541e51690025326cffbf43d0e994a6327abaa0dc59b79021949e62d289.m3u8
 #EXTINF:-1 group-title="电影频道",凤凰电影
@@ -1428,27 +1459,33 @@ https://stream1.freetv.fun/148e52d0d191542b3de6b3c31983ef71b2507ea7321b85ba37667
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：641 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
-https://cdi.ofiii.com/ocean/video/playlist/AwX71A5DFT4/master.m3u8
-# 更新時間：2025-12-12 14:43:29
+https://cdi.ofiii.com/ocean/video/playlist/NDN0KOsv2PY/master.m3u8
+# 更新時間：2025-12-12 15:57:09
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
-https://cdi.ofiii.com/ocean/video/playlist/2kBxhLifv5Y/master.m3u8
-# 更新時間：2025-12-12 14:44:54
+https://cdi.ofiii.com/ocean/video/playlist/kExJAJHvsxU/master.m3u8
+# 更新時間：2025-12-12 15:58:30
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典
-https://cdi.ofiii.com/ocean/video/playlist/2kGCDxa9rt4/master.m3u8
-# 更新時間：2025-12-12 14:45:14
+https://cdi.ofiii.com/ocean/video/playlist/bfirVBacFkk/master.m3u8
+# 更新時間：2025-12-12 15:58:51
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影
 https://cdi.ofiii.com/ocean/video/playlist/nMHvqkDiizU/master.m3u8
 # 更新時間：2025-12-12 14:43:08
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/h1RGjUTlmtw/master.m3u8
-# 更新時間：2025-12-12 14:44:32
+https://cdi.ofiii.com/ocean/video/playlist/NXR9-hS98N0/master.m3u8
+# 更新時間：2025-12-12 15:58:11
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/YWB9SD0zdTs/master.m3u8
-# 更新時間：2025-12-12 14:44:11
+https://cdi.ofiii.com/ocean/video/playlist/lUtjic3OsBo/master.m3u8
+# 更新時間：2025-12-12 15:57:50
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/HyxaXeWxXyM/master.m3u8
-# 更新時間：2025-12-12 14:43:50
-# 更新時間：2025-12-12 14:46:09
+https://cdi.ofiii.com/ocean/video/playlist/ZS6h9m0FkCg/master.m3u8
+# 更新時間：2025-12-12 15:57:28
+# 更新時間：2025-12-12 15:59:46
 # 更新頻道：7 個
-# 保留頻道：641 個
+# 保留頻道：656 個
