@@ -438,27 +438,27 @@ http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 tvg-name="澳门莲花卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="澳门频道",澳门莲花卫视
 https://live.catvod.com/iptv.php?id=amlh01&token=227fee38b036fca9a97c5c742ad804d758a42e56bf175779864368f82a62b24c%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="澳门频道",澳视澳门
+#EXTINF:-1 tvg-name="澳视澳门台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="澳门频道",澳视澳门台
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="澳门频道",澳视澳门
+#EXTINF:-1 tvg-name="澳视澳门台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="澳门频道",澳视澳门台
 https://live.catvod.com/iptv.php?id=asam01&token=122d1ce28180ee0e6440a221ad84ecb9facc8efc77bf1024ca55fb6a93b8b295%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
-#EXTINF:-1 tvg-id="环球电视台" tvg-name=tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="澳门频道",环球电视台
+#EXTINF:-1 tvg-id="澳门环球电视台" tvg-name=tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="澳门频道",澳门环球电视台
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
-#EXTINF:-1 tvg-name="澳视Macau" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi6.png" group-title="澳门频道",澳视Macau
+#EXTINF:-1 tvg-name="澳门Macau" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi6.png" group-title="澳门频道",澳门Macau
 https://live.catvod.com/iptv.php?id=asws01&token=68b52370d13c9b124157fdfe4ac722b27f2cac3cde0f0d3a5d85fc3e6b5e68f5%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
-#EXTINF:-1 tvg-name="澳视体育" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi3.png" group-title="澳门频道",澳视体育
+#EXTINF:-1 tvg-name="澳门体育台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi3.png" group-title="澳门频道",澳门体育台
 https://live.catvod.com/iptv.php?id=amty01&token=6d44c7b2f36bef4eb8f5b12f8f3cd5a9968f29d3951e3725cf560928dd80e07f%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
-#EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi5.png" group-title="澳门频道",澳视综艺
+#EXTINF:-1 tvg-name="澳门综艺台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi5.png" group-title="澳门频道",澳门综艺台
 https://live.catvod.com/iptv.php?id=amzy01&token=aa5123f4cc1bdf60f2c09c704f45d8f9ae1b6e6396a6b6af1a538cf70033dae8%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
-#EXTINF:-1 tvg-name="澳视资讯" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi4.png" group-title="澳门频道",澳视资讯
+#EXTINF:-1 tvg-name="澳门资讯台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi4.png" group-title="澳门频道",澳门资讯台
 https://stream1.freetv.fun/5c02735dff29e990e0e735400c8dbc02e9819b70c4c95a6a11278f7145a8caa3.m3u8
 
-#EXTINF:-1 tvg-name="澳視葡文" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi2.png"  group-title="澳门频道",澳視葡文
+#EXTINF:-1 tvg-name="澳门葡文台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi2.png"  group-title="澳门频道",澳门葡文台
 https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w767334694.m3u8
 
 #==================================================
@@ -1851,27 +1851,33 @@ https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：677 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华偶像",龙华偶像
-https://cdi.ofiii.com/ocean/video/playlist/tN-GaZu1VRc/master.m3u8
-# 更新時間：2025-12-17 16:50:04
+https://cdi.ofiii.com/ocean/video/playlist/LWxHJnSNbAk/master.m3u8
+# 更新時間：2025-12-17 17:06:26
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/jAH_5iaeLXM/master.m3u8
-# 更新時間：2025-12-17 16:51:08
+https://cdi.ofiii.com/ocean/video/playlist/2ACwzXB0NKQ/master.m3u8
+# 更新時間：2025-12-17 17:07:31
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华戏剧",龙华戏剧
-https://cdi.ofiii.com/ocean/video/playlist/4Di7B9OvwSU/master.m3u8
-# 更新時間：2025-12-17 16:51:29
+https://cdi.ofiii.com/ocean/video/playlist/6CKXJyziIj0/master.m3u8
+# 更新時間：2025-12-17 17:07:53
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/neb9O5TOpD0/master.m3u8
-# 更新時間：2025-12-17 16:50:46
+https://cdi.ofiii.com/ocean/video/playlist/hIFFd5vSx-w/master.m3u8
+# 更新時間：2025-12-17 17:07:09
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/gG1HQDIYF0c/master.m3u8
-# 更新時間：2025-12-17 16:50:25
+https://cdi.ofiii.com/ocean/video/playlist/Q3C1SOneCEU/master.m3u8
+# 更新時間：2025-12-17 17:06:48
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华电影",龙华电影
-https://cdi.ofiii.com/ocean/video/playlist/9TFV_gXks94/master.m3u8
-# 更新時間：2025-12-17 16:49:42
+https://cdi.ofiii.com/ocean/video/playlist/lEGn5SXBROM/master.m3u8
+# 更新時間：2025-12-17 17:06:04
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华经典",龙华经典
-https://cdi.ofiii.com/ocean/video/playlist/dyCifQxF40g/master.m3u8
-# 更新時間：2025-12-17 16:51:50
-# 更新時間：2025-12-17 16:53:03
+https://cdi.ofiii.com/ocean/video/playlist/W45k1FopIdQ/master.m3u8
+# 更新時間：2025-12-17 17:08:14
+# 更新時間：2025-12-17 17:09:07
 # 更新頻道：7 個
 # 保留頻道：677 個
