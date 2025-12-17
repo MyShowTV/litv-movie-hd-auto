@@ -103,13 +103,13 @@ http://139.214.176.49:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="央视频道",CCTV-武术世界
 http://139.214.176.49:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-name="PyCCKИЙ" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNey.png" group-title="央视频道",CGTN-俄语频道
+#EXTINF:-1 tvg-name="CGTN-PyCCKИЙ" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNey.png" group-title="央视频道",CGTN-PyCCKИЙ
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 
-#EXTINF:-1 tvg-name="CGTN-ESPANOL" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNxbyy.png" group-title="央视频道",CGTN-西班牙语频道
+#EXTINF:-1 tvg-name="CGTN-ESPANOL" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNxbyy.png" group-title="央视频道",CGTN-ESPANOL
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
-#EXTINF:-1 tvg-name="CGTN-DOCUMENTARY" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNjilu.png" group-title="央视频道",CGTN-纪录频道
+#EXTINF:-1 tvg-name="CGTN-DOCUMENTARY" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNjilu.png" group-title="央视频道",CGTN-DOCUMENTARY
 https://stream1.freetv.fun/cgtn-documentary-7.ctv
 
 #========================================================
@@ -916,10 +916,10 @@ https://stream1.freetv.fun/5ff7d1461de2e71e83aa440c837525d3a5b55f3209b68cb781c72
 #EXTINF:-1 group-title="电影频道",公視金獎台
 http://152.32.229.52:5050/ofiii13/index.m3u8?proxy=true
 
-#EXTINF:-1 group-title="电影频道",newtv动作电影
+#EXTINF:-1 tvg-name="newtv动作电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NewTV03.png" group-title="电影频道",newtv动作电影
 https://stream1.freetv.fun/30bb5138d7c0ee73afd57778a2c4bffc801ab19b7eaeea7e55adf36b4482d6ef.m3u8
 
-#EXTINF:-1 group-title="电影频道",邵氏电影
+#EXTINF:-1 tvg-name="newtv动作电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NewTV03.png" group-title="电影频道",邵氏电影
 https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CHC1.png" group-title="电影频道",CHC影迷电影
@@ -934,9 +934,9 @@ http://139.214.176.49:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="峨嵋电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan8.png" group-title="电影频道",峨嵋电影
 http://175.153.237.76:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1 group-title="电影频道",凤凰电影
+#EXTINF:-1 tvg-name="newtv动作电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="电影频道",凤凰电影
 https://stream1.freetv.fun/feng-huang-dian-ying-3.m3u8
-#EXTINF:-1 group-title="电影频道",凤凰电影
+#EXTINF:-1 tvg-name="newtv动作电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="电影频道",凤凰电影
 http://222.186.39.38:8000/882696/index.m3u8
 
 
@@ -946,15 +946,15 @@ https://stream1.freetv.fun/bd9b58cee2df9320032c1103e648326aa5c9b05ab285171cd8467
 #EXTINF:-1 tvg-name="影迷电影台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/FANS1.png" group-title="电影频道",MOVIE
 https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8
 
-#EXTINF:-1 tvg-name="影迷电影台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/FANS1.png" group-title="电影频道",超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NewTV25.png" group-title="电影频道",超级电视剧
 https://stream1.freetv.fun/203d60eb30e782051e2bfea07e2144bc7f4a2dae3fd2eb2d14a9d8336571e79e.m3u8
-#EXTINF:-1 tvg-name="影迷电影台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/FANS1.png" group-title="电影频道",超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NewTV25.png" group-title="电影频道",超级电视剧
 https://stream1.freetv.fun/cb891efe50af5e5ef0bba1eb15311968ddeb33253f673c4d7eafa4d71409882f.m3u8
 
 #EXTINF:-1 tvg-name="影迷电影台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/FANS1.png" group-title="电影频道",重温经典
 https://other.ottiptv.cc/cwjd.m3u8
 
-#EXTINF:-1 tvg-name="影迷电影台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/FANS1.png" group-title="电影频道",精品大剧
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NewTV19.png" group-title="电影频道",精品大剧
 https://stream1.freetv.fun/352ae4fa455a3768beedf99beddd81b7afa19e94554a127d67e3f8cf9fb1e8aa.m3u8
 
 #EXTINF:-1 tvg-name="影迷电影台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/FANS1.png" group-title="电影频道",影视剧场
@@ -1830,6 +1830,12 @@ https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：677 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华偶像",龙华偶像
 https://cdi.ofiii.com/ocean/video/playlist/KYxQwu2hB00/master.m3u8
 # 更新時間：2025-12-17 13:57:47
@@ -1851,6 +1857,6 @@ https://cdi.ofiii.com/ocean/video/playlist/4vkP4vI8urE/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华经典",龙华经典
 https://cdi.ofiii.com/ocean/video/playlist/8YMYhNxP_O8/master.m3u8
 # 更新時間：2025-12-17 13:59:31
-# 更新時間：2025-12-17 15:23:04
+# 更新時間：2025-12-17 15:37:23
 # 更新頻道：7 個
 # 保留頻道：677 個
