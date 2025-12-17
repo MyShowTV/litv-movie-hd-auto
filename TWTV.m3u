@@ -7,6 +7,7 @@
 # 央视频道
 #==================================================
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://139.214.176.49:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -271,7 +272,7 @@ http://120.196.235.42:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=
 #==================================================
 # 香港频道
 #==================================================
-#EXTM3U
+
 #EXTINF:-1 tvg-name="TVB翡翠财经" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB5.png" group-title="香港频道",TVB翡翠财经
 https://live.catvod.com/iptv.php?id=fct002&token=e1309528dc6e7aae67415f95dec8bb8dd657b379a10743cf19b8bb2ed0a181ee%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="TVB翡翠财经" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB5.png" group-title="香港频道",TVB翡翠财经
@@ -433,9 +434,9 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 # 澳门频道
 #==================================================
 
-#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="澳门频道",澳门莲花
+#EXTINF:-1 tvg-id="澳门莲花卫视" tvg-name="澳门莲花卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="澳门频道",澳门莲花卫视
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="澳门频道",澳门莲花
+#EXTINF:-1 tvg-id="澳门莲花卫视" tvg-name="澳门莲花卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="澳门频道",澳门莲花卫视
 https://live.catvod.com/iptv.php?id=amlh01&token=227fee38b036fca9a97c5c742ad804d758a42e56bf175779864368f82a62b24c%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="澳门频道",澳视澳门
@@ -1868,27 +1869,33 @@ https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：676 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华偶像",龙华偶像
-https://cdi.ofiii.com/ocean/video/playlist/HkXSFsy2VnI/master.m3u8
-# 更新時間：2025-12-17 17:20:20
+https://cdi.ofiii.com/ocean/video/playlist/eE8qCGFNjro/master.m3u8
+# 更新時間：2025-12-17 18:05:38
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/tETeucUbo_8/master.m3u8
-# 更新時間：2025-12-17 17:39:55
+https://cdi.ofiii.com/ocean/video/playlist/CjHBMCAVjno/master.m3u8
+# 更新時間：2025-12-17 18:06:42
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华戏剧",龙华戏剧
-https://cdi.ofiii.com/ocean/video/playlist/kssts3JdjtI/master.m3u8
-# 更新時間：2025-12-17 17:40:16
+https://cdi.ofiii.com/ocean/video/playlist/Y4rPs9nApWw/master.m3u8
+# 更新時間：2025-12-17 18:07:04
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/eu28T8PqCV4/master.m3u8
-# 更新時間：2025-12-17 17:21:02
+https://cdi.ofiii.com/ocean/video/playlist/aDaRzOJShuA/master.m3u8
+# 更新時間：2025-12-17 18:06:20
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/HuoLgDJ6RAE/master.m3u8
-# 更新時間：2025-12-17 17:38:46
+https://cdi.ofiii.com/ocean/video/playlist/nAX9gLa6kYY/master.m3u8
+# 更新時間：2025-12-17 18:05:59
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华电影",龙华电影
-https://cdi.ofiii.com/ocean/video/playlist/yy3QO1pbbGA/master.m3u8
-# 更新時間：2025-12-17 17:37:36
+https://cdi.ofiii.com/ocean/video/playlist/1IH3flF_FB0/master.m3u8
+# 更新時間：2025-12-17 18:05:12
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华经典",龙华经典
-https://cdi.ofiii.com/ocean/video/playlist/VHCNHMQwHfE/master.m3u8
-# 更新時間：2025-12-17 17:40:55
-# 更新時間：2025-12-17 17:41:49
+https://cdi.ofiii.com/ocean/video/playlist/0ADQCm2VgMM/master.m3u8
+# 更新時間：2025-12-17 18:07:26
+# 更新時間：2025-12-17 18:08:20
 # 更新頻道：7 個
 # 保留頻道：676 個
