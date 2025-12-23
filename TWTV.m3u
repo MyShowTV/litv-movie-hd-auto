@@ -265,21 +265,20 @@ http://139.214.176.195:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/huashu4k.png" group-title="卫视频道",热播剧场
 http://120.196.235.42:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://live.fanmingming.com/tv/魅力时尚.png" group-title="卫视频道",魅力时尚
+#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ihot23.png.png" group-title="卫视频道",魅力时尚
 http://120.196.235.42:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/huashu4k.png" group-title="卫视频道",经典电影
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ihot27.png" group-title="卫视频道",经典电影
 http://120.196.235.42:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/谍战剧场.png" group-title="卫视频道",谍战剧场
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ihot26.png" group-title="卫视频道",谍战剧场
 http://120.196.235.42:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #==================================================
 # 香港频道
 #==================================================
 
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",TVB翡翠台
-https://live.catvod.com/iptv.php?id=fct004&token=51f90e6c8642971cc4df8e955af45f003a78ac8bcccfd1020825916a3d296184%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",TVB翡翠台
 https://live.catvod.com/iptv.php?id=fct002&token=e1309528dc6e7aae67415f95dec8bb8dd657b379a10743cf19b8bb2ed0a181ee%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",TVB翡翠台
@@ -299,9 +298,9 @@ https://live.catvod.com/iptv.php?id=mztsub&token=8cff608441fcfed41a97a017b12c7de
 #EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB9.png" group-title="香港频道",TVB北美台
 https://live.catvod.com/iptv.php?id=j1na001&token=cab33452dbdbbde5ef273379b7313d9ebbdd7b23b092ac75406daf0a5d93573f%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
-#EXTINF:-1 tvg-name="TVB无线新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png" group-title="香港频道",TVB新闻台
+#EXTINF:-1 tvg-name="TVB无线新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png" group-title="香港频道",TVB无线新闻台
 https://live.catvod.com/iptv.php?id=tvbxw01&token=3e6a06188c94b12695d75dfff0104bc9bdaa0a88f9050f6c1d980fb78c1444d5%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="TVB无线新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png" group-title="香港频道",TVB新闻台
+#EXTINF:-1 tvg-name="TVB无线新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png" group-title="香港频道",TVB无线新闻台
 https://live.catvod.com/iptv.php?id=wxxw01&token=bc68106732573bb641231781548d57d213f749c8f04008981c33e0297520341e%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
 #EXTINF:-1 tvg-name="TVB Malaysia" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB6.png" group-title="香港频道",TVB星河台
@@ -368,9 +367,6 @@ https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f
 
 #EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/now1.png" group-title="香港频道",Now新闻台
 https://live.catvod.com/iptv.php?id=nownews&token=598e3b28dc3e46fcba8fedb39f6234c4eb36856b8d3c83504f1ba4efe5a794ee%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
-
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="香港频道",重温经典
-https://live.catvod.com/iptv.php?id=cwjd01&token=376bf0a083a8f7185373716ca93c61f4e16f83cb1274a15cecd89eda587dd1ee%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png"  group-title="香港频道",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -938,7 +934,6 @@ https://stream1.freetv.fun/feng-huang-dian-ying-3.m3u8
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="电影频道",凤凰电影
 http://222.186.39.38:8000/882696/index.m3u8
 
-
 #EXTINF:-1 tvg-name="古装电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NewTV04.png"  group-title="电影频道",古装电影
 https://stream1.freetv.fun/bd9b58cee2df9320032c1103e648326aa5c9b05ab285171cd8467a07be5ba8de.m3u8
 
@@ -950,8 +945,10 @@ https://stream1.freetv.fun/203d60eb30e782051e2bfea07e2144bc7f4a2dae3fd2eb2d14a9d
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NewTV25.png" group-title="电影频道",超级电视剧
 https://stream1.freetv.fun/cb891efe50af5e5ef0bba1eb15311968ddeb33253f673c4d7eafa4d71409882f.m3u8
 
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/FANS1.png" group-title="电影频道",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="电影频道",重温经典
 https://other.ottiptv.cc/cwjd.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="香港频道",重温经典
+https://live.catvod.com/iptv.php?id=cwjd01&token=376bf0a083a8f7185373716ca93c61f4e16f83cb1274a15cecd89eda587dd1ee%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NewTV19.png" group-title="电影频道",精品大剧
 https://stream1.freetv.fun/352ae4fa455a3768beedf99beddd81b7afa19e94554a127d67e3f8cf9fb1e8aa.m3u8
@@ -1835,27 +1832,33 @@ https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华偶像",龙华偶像
-https://cdi.ofiii.com/ocean/video/playlist/VDIax-dHAfQ/master.m3u8
-# 更新時間：2025-12-23 00:21:25
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/yfOTcr5XIj0/master.m3u8
-# 更新時間：2025-12-23 00:22:43
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华戏剧",龙华戏剧
-https://cdi.ofiii.com/ocean/video/playlist/XF6DyrzdA38/master.m3u8
-# 更新時間：2025-12-23 00:23:07
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/Ff2RgmivDYQ/master.m3u8
-# 更新時間：2025-12-23 00:22:20
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/HR1aoSWWsyA/master.m3u8
-# 更新時間：2025-12-23 00:21:47
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华电影",龙华电影
-https://cdi.ofiii.com/ocean/video/playlist/dzXX94bOhCU/master.m3u8
-# 更新時間：2025-12-23 00:20:58
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华经典",龙华经典
-https://cdi.ofiii.com/ocean/video/playlist/bpgSGMJOEG0/master.m3u8
-# 更新時間：2025-12-23 00:23:33
-# 更新時間：2025-12-23 00:23:37
 # 更新頻道：7 個
 # 保留頻道：682 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华偶像",龙华偶像
+https://cdi.ofiii.com/ocean/video/playlist/DJXqvqVx9Ig/master.m3u8
+# 更新時間：2025-12-23 10:15:24
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
+https://cdi.ofiii.com/ocean/video/playlist/mvfzNE_-VTQ/master.m3u8
+# 更新時間：2025-12-23 10:16:29
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华戏剧",龙华戏剧
+https://cdi.ofiii.com/ocean/video/playlist/FKVwjzMhbhc/master.m3u8
+# 更新時間：2025-12-23 10:16:50
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
+https://cdi.ofiii.com/ocean/video/playlist/-EmxUrEr7SI/master.m3u8
+# 更新時間：2025-12-23 10:16:07
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
+https://cdi.ofiii.com/ocean/video/playlist/AQ8ge45pons/master.m3u8
+# 更新時間：2025-12-23 10:15:45
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华电影",龙华电影
+https://cdi.ofiii.com/ocean/video/playlist/aVrPNJPxoAQ/master.m3u8
+# 更新時間：2025-12-23 10:15:02
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华经典",龙华经典
+https://cdi.ofiii.com/ocean/video/playlist/EUPyHf888nM/master.m3u8
+# 更新時間：2025-12-23 10:17:12
+# 更新時間：2025-12-23 10:17:16
+# 更新頻道：7 個
+# 保留頻道：681 個
